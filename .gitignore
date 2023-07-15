@@ -1,0 +1,6 @@
+*.mp4
+*.srt
+*.pem
+*.html
+*.url
+.terraform
